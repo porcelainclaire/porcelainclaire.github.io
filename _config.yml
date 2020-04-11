@@ -42,9 +42,6 @@ google_analytics: UA-37800264-3
 # own domain
 # url: porcelainclaire.com
 
-# site foot text
-# footer-text: Copyright (c) 2020 Porcelain Claire
-
 markdown: kramdown
 
 kramdown:
